@@ -1,5 +1,15 @@
 <h1 align="center"><i>PART 1: 16 BASIC OPENCV PROJECTS</i></h1>
 
+## ___INTRODUCTION___
+
+## _**ABSTRACT**_
+
+## _**PROJECT METHODS**_
+
+## _**CONCLUSION**_
+
+## _**ADDITIONAL MATERIALS**_
+
 <h1 align="center"><i>PART 2: ERODING POKEMON IMAGES</i></h1>
 
 ## ___INTRODUCTION___
@@ -44,6 +54,14 @@
 - In this experiment, the concept of **morphological erosion** was demonstrated using **Pokémon Images** as visual examples. We observed how the technique reduced the distinct features of the images by applying erosion with varying kernel sizes. Smaller kernel sizes resulted in subtle transformations, while larger kernels significantly simplified the images by removing finer details and contracting boundaries. This approach pointed out some real applications of morphological erosion in computer vision: removing noise, simplifying the shape, and segmenting an object. The visualization of such effects clearly explained how the erosion process affects the image features, which makes it more practical for preprocessing tasks in image analysis.
 
 ## _**ADDITIONAL MATERIALS**_
+
+_**Sample Results: Eroded Pokemon Pictures**_
+
+* _**Original Images:**_ Display of the original image with its natural colors and structure.
+
+* _**Canny Images:**_ Highlighting the edges in the image. It identifies boundaries by detecting areas of rapid intensity change, emphasizing the edges of the object.
+
+* _**Eroded Images:**_ The erosion operation is performed on the Canny output. This morphological operation reduces the thickness of edges and removes small noise, resulting in a thinner and simplified version of the detected edges.
 
 ![image](https://github.com/user-attachments/assets/42d12c9e-6b4d-4fd3-9e13-a011d774678c)
 
