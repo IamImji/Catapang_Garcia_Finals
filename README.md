@@ -1,7 +1,22 @@
-# OpenCVFileRequirements
+<h1 align="center"><i>OpenCVFileRequirements</i></h1>
+
+## ___INTRODUCTION___
+
+  ### Demonstrating Morphological Erosion
+
+  **_Morphological erosion_** is a fundamental image processing operation in computer vision. It involves sliding a structuring element (or kernel) across an image, removing pixels at object boundaries. This process shrinks the foreground features of an image, emphasizing the significance of kernel size and shape in altering image features.
+  
+## _**ABSTRACT**_
+
+* **Objective:** To demonstrate how morphological erosion in computer vision can be utilized by showing how the features of Pokémon images are reduced under different kernel sizes.
+* **Approach:** To utilize _Morphological erosion_ as a basis in image processing technique to reduce the boundaries within Pokemon images, used for noise removal, simplification of shapes, and object segmentation.
+* **Purpose:** To visualize and analyze how erosion with different kernel sizes affects the transformation of features in the Pokemon images.
+
+## _**PROJECT METHODS**_
 
 
-## ___References___
+
+## ___REFERENCES___
 
 * Tree. (n.d.). _faceted abstract background in 3d with shimmering iridescent metallic texture of blue violet and pink_. Pngtree. https://pngtree.com/free-abstract-background
 
