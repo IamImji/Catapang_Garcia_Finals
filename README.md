@@ -1,4 +1,6 @@
-<h1 align="center"><i>ERODING POKEMON IMAGES</i></h1>
+<h1 align="center"><i>PART 1: 16 BASIC OPENCV PROJECTS</i></h1>
+
+<h1 align="center"><i>PART 2: ERODING POKEMON IMAGES</i></h1>
 
 ## ___INTRODUCTION___
 
