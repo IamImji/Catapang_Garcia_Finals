@@ -1,15 +1,3 @@
-<h1 align="center"><i>PART 1: 16 BASIC OPENCV PROJECTS</i></h1>
-
-## ___INTRODUCTION___
-
-## _**ABSTRACT**_
-
-## _**PROJECT METHODS**_
-
-## _**CONCLUSION**_
-
-## _**ADDITIONAL MATERIALS**_
-
 <h1 align="center"><i>PART 2: ERODING POKEMON IMAGES</i></h1>
 
 ## ___INTRODUCTION___
@@ -29,24 +17,20 @@
 
 ## _**PROJECT METHODS**_
 
-*
-![image](https://github.com/user-attachments/assets/a665089f-d7b7-42f6-8d3e-f57b28432505)
-
-*
-![image](https://github.com/user-attachments/assets/dbc9882e-d7b2-4a3c-a1e8-8943f2a936fe)
-
-*
-![image](https://github.com/user-attachments/assets/b398f7ce-cc20-4b3c-bbc9-06a2c4a29a4e)
-
-*
-![image](https://github.com/user-attachments/assets/55f723b6-ff18-417c-818f-0ae31209e799)
-
-*
-![image](https://github.com/user-attachments/assets/5b3e7dc7-dd1f-495b-b9bf-e22c34d60ca7)
-
-*
-![image](https://github.com/user-attachments/assets/a5e6e1a0-b2e9-43b2-a9fa-aa13668b06fe)
-
+* Clone Github File
+  * Download the repository from GitHub using the "git clone" command, ensuring access to all project files and dependencies.
+* Import Necessary Libraries
+  * Load essential Python libraries
+* Pokemon Image folder
+  * Direct path containing a collection of Pokémon images, used as a dataset for Erosion in OpenCV.
+* Processing Images
+  * Apply OpenCV techniques to manipulate and analyze images, including resizing, filtering, edge detection, and color space conversions, to prepare them for further tasks.
+* Converting to a Pandas Dataframe
+  * Transform image data into a structured tabular format using Pandas for easier manipulation and analysis.
+* Display Images on the table (Original Image, Canny Images, Eroded Images)
+  * **Original Image**: Show the original Pokémon image from the dataset.
+  * **Canny Image:** Apply the Canny edge detection algorithm to the image and display the result.
+  * **Eroded Image:** Apply morphological erosion to the image and display the result.
 
 
 ## _**CONCLUSION**_
@@ -54,6 +38,20 @@
 - In this experiment, the concept of **morphological erosion** was demonstrated using **Pokémon Images** as visual examples. We observed how the technique reduced the distinct features of the images by applying erosion with varying kernel sizes. Smaller kernel sizes resulted in subtle transformations, while larger kernels significantly simplified the images by removing finer details and contracting boundaries. This approach pointed out some real applications of morphological erosion in computer vision: removing noise, simplifying the shape, and segmenting an object. The visualization of such effects clearly explained how the erosion process affects the image features, which makes it more practical for preprocessing tasks in image analysis.
 
 ## _**ADDITIONAL MATERIALS**_
+
+_**Codes for Eroding Pokemon Pictures**_
+
+![image](https://github.com/user-attachments/assets/a665089f-d7b7-42f6-8d3e-f57b28432505)
+
+![image](https://github.com/user-attachments/assets/dbc9882e-d7b2-4a3c-a1e8-8943f2a936fe)
+
+![image](https://github.com/user-attachments/assets/b398f7ce-cc20-4b3c-bbc9-06a2c4a29a4e)
+
+![image](https://github.com/user-attachments/assets/55f723b6-ff18-417c-818f-0ae31209e799)
+
+![image](https://github.com/user-attachments/assets/5b3e7dc7-dd1f-495b-b9bf-e22c34d60ca7)
+
+![image](https://github.com/user-attachments/assets/a5e6e1a0-b2e9-43b2-a9fa-aa13668b06fe)
 
 _**Sample Results: Eroded Pokemon Pictures**_
 
