@@ -85,6 +85,14 @@ _**Sample Results: Eroded Pokemon Pictures**_
 
 ![image](https://github.com/user-attachments/assets/1e0ceb6c-0041-41fb-9e04-01ec94a8660b)
 
+## _**VIDEO PRESENTATION**_
+
+* **Part 1 - 16 Basic OpenCV Projects**
+  * https://youtu.be/M1OYNcb8iLI
+
+* **Part 2 - Eroding Pokemon Images**
+  * https://youtu.be/boq1xJOgSmA
+
 ## ___REFERENCES___
 
 * Tree. (n.d.). _faceted abstract background in 3d with shimmering iridescent metallic texture of blue violet and pink_. Pngtree. https://pngtree.com/free-abstract-background
